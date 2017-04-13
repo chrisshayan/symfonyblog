@@ -1,0 +1,15 @@
+home: Inicio
+
+by: by
+read.more: Leer mas
+author: Autor
+
+post:
+  plural: Posts
+  on: Posted on
+  latest: Latest Posts
+  by: Posts by
+  by.author: Posts by %name%
+
+author:
+  empty.posts: This author did not write any post yet
